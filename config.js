@@ -1,6 +1,6 @@
 // Dados demonstrativos. Substituir apenas por informações confirmadas pela marca.
 window.PATU_CONFIG = {
-  WHATSAPP_NUMBER: '', // Número internacional somente com dígitos: país + DDD + número.
+  WHATSAPP_NUMBER: '5511917197510', // Número internacional somente com dígitos: país + DDD + número.
   business: null, // Dados verificados para LocalBusiness: name, telephone, address, url.
   products: [
     {id:'tradicional',name:'Pudim Tradicional',category:'Tradicionais',description:'Clássico, cremoso e irresistível.',price:'R$ XX,XX',image:'pudim.jpg'},
